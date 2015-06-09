@@ -12,3 +12,17 @@ C:\Repos\Bitbucket\Rememio\TheExtensionChanger\obj\Debug\TheExtensionChanger.Pro
 C:\Repos\Bitbucket\Rememio\TheExtensionChanger\obj\Debug\TheExtensionChanger.csproj.GenerateResource.Cache
 C:\Repos\Bitbucket\Rememio\TheExtensionChanger\obj\Debug\TheExtensionChanger.exe
 C:\Repos\Bitbucket\Rememio\TheExtensionChanger\obj\Debug\TheExtensionChanger.pdb
+C:\Repos\GitHub\TheExtensionChanger\bin\Debug\TheExtensionChanger.exe.config
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger.exe
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger.pdb
+C:\Repos\GitHub\TheExtensionChanger\bin\Debug\TheExtensionChanger.exe
+C:\Repos\GitHub\TheExtensionChanger\bin\Debug\TheExtensionChanger.pdb
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger.csprojResolveAssemblyReference.cache
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\MainWindow.g.cs
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\App.g.cs
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger_MarkupCompile.cache
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger_MarkupCompile.lref
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\MainWindow.baml
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger.g.resources
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger.Properties.Resources.resources
+C:\Repos\GitHub\TheExtensionChanger\obj\Debug\TheExtensionChanger.csproj.GenerateResource.Cache
